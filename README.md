@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Zeeshan-99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Zeeshan Haleem 👋
 
-<!---
-Zeeshan-99/Zeeshan-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Senior Software Engineer | Data Scientist | AI/ML Engineer**
+
+I'm passionate about building intelligent, scalable AI solutions that solve real-world problems.
+
+- 👀 **Interests:** Artificial Intelligence, Machine Learning, Generative AI, Agentic AI, and MLOps.
+- 🌱 **Currently Learning:** LangGraph, AI Agents, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), LLMs, and production-grade AI systems.
+- 💻 **Tech Stack:** Python, SQL, Scikit-learn, PyTorch, LangGraph, LangChain, FastAPI, Streamlit, AWS, Azure, Docker, and MLflow.
+- 🤝 **Looking to Collaborate On:** Open-source AI/ML projects, Agentic AI applications, LLM-powered tools, and end-to-end MLOps solutions.
+- 📫 **How to Reach Me:** Connect with me on [LinkedIn](www.linkedin.com/in/zeeshan-haleem-b05062116) or explore my repositories here on GitHub.
+- ⚡ **Fun Fact:** I enjoy turning complex data into actionable insights and transforming AI ideas into practical applications.
+
+---
+
+⭐ Feel free to explore my repositories, share feedback, and collaborate on exciting AI projects!
+
+
